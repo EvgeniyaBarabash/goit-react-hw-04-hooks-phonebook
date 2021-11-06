@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.title {
+  color: rgb(9, 65, 65);
+  margin: 0;
+  margin-bottom: 10px;
+}
+.wrapper {
+  padding: 30px;
+}

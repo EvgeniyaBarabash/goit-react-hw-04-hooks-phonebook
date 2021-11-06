@@ -1,0 +1,31 @@
+.list {
+  list-style: none;
+  padding: 0;
+}
+.item {
+  display: flex;
+  font-size: 16px;
+}
+.item:not(:last-child) {
+  margin-bottom: 10px;
+}
+.btn {
+  display: inline-block;
+  width: 70px;
+  padding: 5px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  background-color: rgb(37, 131, 131);
+  font-size: 12px;
+}
+.text {
+  margin: 0;
+  margin-right: 10px;
+  font-weight: 400px;
+}
+.title {
+  color: rgb(9, 65, 65);
+  margin: 0;
+  margin-bottom: 10px;
+}
